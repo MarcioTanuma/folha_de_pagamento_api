@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mproject.fopag</groupId>
-	<artifactId>fopag</artifactId>
+	<artifactId>fopag_api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>fopag</name>
 	<description>Sistema de folha de pagamento </description>
